@@ -9,6 +9,7 @@ Este repositorio contiene un script en Python para desofuscar código JavaScript
 En un análisis reciente de phishing distribuido vía WhatsApp, se detectó un archivo HTML altamente ofuscado que generaba contenido fraudulento simulando una actualización oficial de Adobe Acrobat Reader. Este contenido soporta múltiples idiomas, realiza redirecciones maliciosas y utiliza plataformas legítimas como Google Drive para alojar documentos falsos.
 
 El script permite interpretar y recuperar el código original, convirtiendo valores codificados en Unicode a texto legible, facilitando análisis forense y detección.
+
 ⚙️ Uso
 
    Clonar este repositorio.
